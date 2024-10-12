@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Redirect Extension",
+  "version": "1.0",
+  "description": "Automatically redirects from one page to another.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "storage"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "host_permissions": [
+    "*://*/*"
+  ]
+}

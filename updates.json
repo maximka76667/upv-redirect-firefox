@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{abcd1234-1abc-1234-12ab-abcdef123456}": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/maximka76667/upv-redirect-firefox/blob/main/upv-redirect.xpi"
+        }
+      ]
+    }
+  }
+}
